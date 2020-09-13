@@ -38,3 +38,12 @@ pm_predicted - Predicted rotor temperature
 stator_yoke_predicted - Predicted stator yoke temperature
 stator_tooth_predicted - Predicted stator tooth temperature
 stator_winding_predicted - Predicted stator winding temperature
+
+RMSE:
+
+RMSE_pm:  0.35153019984326317
+RMSE_stator_yoke:  0.5084295604137152
+RMSE_stator_tooth:  0.4118579533174224
+RMSE_stator_winding:  0.3200446434628302
+
+Overall RMSE: 1.591862357037231
